@@ -1,0 +1,2 @@
+DIMENSIONS,MEASURES,DATA_LOC,HOLIDAY_LOC,DATE_COL_NAME
+"VERTICAL, MEDIA_CHANNEL","CLICK_COST, CLICK_REVENUE, CALL_COST, CALL_REVENUE, LEAD_COST, LEAD_REVENUE",C:\Users\dvdries\python_proj_folder\RR\data\run_rate_output.txt,C:\Users\dvdries\python_proj_folder\RR\data\holiday_calendar.txt,CREATED_DAY
