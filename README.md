@@ -1,10 +1,10 @@
 # Monthly-Run-Rate
 Basic monthly run rate that incorporates padding and softening for holidays and data validation.
 
-############################
+
 Author: Dominique Vanden Dries
 December 2019
-############################
+
 
 PYTHON FILES:
 
