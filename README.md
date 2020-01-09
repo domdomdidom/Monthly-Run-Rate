@@ -3,6 +3,7 @@ Basic monthly run rate that incorporates padding and softening for holidays and 
 
 
 Author: Dominique Vanden Dries
+
 December 2019
 
 
@@ -19,8 +20,10 @@ SQL FILES:
 - SQL query to be executed by HIVE. Can be a .txt, .sql, etc file. uses with open("r")
 
 CONFIG FILE:
+
 +++++++++++++++++++++++++++++++++++++++++++++++++
 + DIMENSIONS + MEASURES + DATE_COL_NAME + TABLE +
 +++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 HOLIDAY FILE:
