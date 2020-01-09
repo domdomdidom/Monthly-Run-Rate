@@ -1,5 +1,5 @@
 # Monthly-Run-Rate
-Basic monthly run rate that incorporates temporal patterns for holidays based on previous data. Data is pulled off HIVE server. Script includes a data validation function to prevent it from running if data from yesterday isn't fully loaded yet. 
+Basic monthly run rate that incorporates temporal patterns for holidays based on previous data. Data is pulled from HIVE server. Script includes a data validation function to prevent it from running if data from yesterday isn't fully loaded yet. 
 
 
 Author: Dominique Vanden Dries
@@ -21,15 +21,15 @@ SQL FILES:
 
 CONFIG FILE:
 
-+++++++++++++++++++++++++++++++++++++++++++++++++
-DIMENSIONS + MEASURES + DATE_COL_NAME + TABLE
++++++++++++++++++++++++++++++++++++++++++++++++++<br/>
+DIMENSIONS + MEASURES + DATE_COL_NAME + TABLE<br/>
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 HOLIDAY FILE:
 
-+++++++++++++++++++++++++++++++++++++++++++++++++
-DAY_DATE + DAY_COMMENTS + HOLIDAY_PCT_MODIFIER
++++++++++++++++++++++++++++++++++++++++++++++++++<br/>
+DAY_DATE + DAY_COMMENTS + HOLIDAY_PCT_MODIFIER<br/>
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 SAMPLE CMD LINE:
