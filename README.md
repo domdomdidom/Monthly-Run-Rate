@@ -22,14 +22,14 @@ SQL FILES:
 CONFIG FILE:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
-+ DIMENSIONS + MEASURES + DATE_COL_NAME + TABLE +
+DIMENSIONS + MEASURES + DATE_COL_NAME + TABLE
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 HOLIDAY FILE:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
-+ DAY_DATE + DAY_COMMENTS + HOLIDAY_PCT_MODIFIER +
+DAY_DATE + DAY_COMMENTS + HOLIDAY_PCT_MODIFIER
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 SAMPLE CMD LINE:
